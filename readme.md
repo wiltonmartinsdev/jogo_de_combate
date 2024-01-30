@@ -12,16 +12,16 @@ Este projeto é um jogo de combate simples feito em Python. Ele demonstra o uso 
 
 4. **Polimorfismo**: O polimorfismo permite que um objeto seja tratado como uma instância de sua classe ou de qualquer classe de sua hierarquia. Neste projeto, o método `attack` na classe `Personage` é sobrescrito na classe `Hero` para implementar um ataque especial.
 
-5. **Bibliotecas**: Este projeto utiliza a biblioteca interna do Python chamada `random`. Essa biblioteca é usada para calcular de forma aleatória o damage causado quando o jogador faz um ataque.
+5. **Bibliotecas**: Este projeto utiliza a biblioteca interna do Python chamada `random`. Essa biblioteca é usada para calcular de forma aleatória o dano causado quando o jogador faz um ataque.
 
 ## Instalação
 
 1. Certifique-se de ter o Python instalado em seu sistema a partir da versão 3.11.5 64bit ou superior.
 2. Clone esse repositório.
 3. Abra seu terminal e navegue até o diretório onde o arquivo foi baixado.
-4. Execute o arquivo: `game.py` no seu IDE ou Editor de código-fonte de sua preferência para iniciar o game.
+4. Execute o arquivo: `game.py` no seu IDE ou Editor de código-fonte de sua preferência para iniciar o jogo.
 
-## Estrutura do Game
+## Estrutura do Jogo
 
 -   O jogo começa com a criação de uma instância da classe `Game`. A classe `Game` gerencia o jogo, criando instâncias das classes `Hero` e `Enemy` e gerenciando a lógica do jogo, como a batalha entre o herói e o inimigo.
 
@@ -39,4 +39,4 @@ Este projeto é um jogo de combate simples feito em Python. Ele demonstra o uso 
 
 -   **Polimorfismo**: Aprendi a usar o polimorfismo para permitir que um objeto seja tratado como uma instância de sua classe ou de qualquer classe de sua hierarquia. Isso aumentou a flexibilidade do código.
 
--   **Bibliotecas**: Aprendi a usar a biblioteca interna do Python chamada `random` para gerar números aleatórios. Isso foi útil para adicionar um elemento de aleatoriedade ao game. Assim como aprendi a fazer uso de bibliotecas de terceiros.
+-   **Bibliotecas**: Aprendi a usar a biblioteca interna do Python chamada `random` para gerar números aleatórios. Isso foi útil para adicionar um elemento de aleatoriedade ao dano causado pelo ataque dos jogadores. Assim como aprendi a fazer uso de bibliotecas de terceiros.
