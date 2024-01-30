@@ -1,6 +1,6 @@
-# Game de Combate em Python
+# Jogo de Combate em Python
 
-Este projeto é um game de combate simples feito em Python. Ele demonstra o uso de vários conceitos de programação orientada a objetos (POO) e também utiliza uma biblioteca interna.
+Este projeto é um jogo de combate simples feito em Python. Ele demonstra o uso de vários conceitos da Programação Orientada a Objetos (POO) e também utiliza uma biblioteca interna.
 
 ## Conceitos Abordados
 
