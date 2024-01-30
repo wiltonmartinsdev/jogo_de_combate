@@ -1,4 +1,4 @@
-# Jogo de Combate em Python
+# Jogo de Combate
 
 Este projeto é um jogo de combate simples feito em Python. Ele demonstra o uso de vários conceitos da Programação Orientada a Objetos (POO).
 
@@ -13,6 +13,10 @@ Este projeto é um jogo de combate simples feito em Python. Ele demonstra o uso 
 4. **Polimorfismo**: O polimorfismo permite que um objeto seja tratado como uma instância de sua classe ou de qualquer classe de sua hierarquia. Neste projeto, o método `attack` na classe `Personage` é sobrescrito na classe `Hero` para implementar um ataque especial.
 
 5. **Bibliotecas**: Este projeto utiliza a biblioteca interna do Python chamada `random`. Essa biblioteca é usada para calcular de forma aleatória o dano causado quando o jogador faz um ataque.
+
+## Stack Utilizada
+
+- Back-end: `Python`
 
 ## Instalação
 
