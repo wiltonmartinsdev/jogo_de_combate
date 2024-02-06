@@ -27,6 +27,11 @@ Este projeto é um jogo de combate simples feito em Python. Ele demonstra o uso 
 
 -   Durante a batalha, o usuário pode escolher entre atacar normalmente ou usar um ataque especial. Após cada turno, o inimigo também ataca o herói. O jogo continua até que o herói ou o inimigo tenham 0 de vida.
 
+## Licença
+
+![GitHub License](https://img.shields.io/github/license/wiltonmartinsdev/jogo_de_combate)
+
+
 ## Aprendizados
 
 -   A cada novo projeto proposto pela Rocketseat sempre há novos aprendizados e desafios, focados em nos levar a pensar fora da caixa e com isso sempre aprimorando cada vez mais o meu conhecimento adquirido em desenvolvimento FullStack.
